@@ -17,5 +17,4 @@
         android:layout_height="wrap_content"
         android:text="Hello Android!"
         android:textSize="40sp"
-        tools:textSize="40sp" />
 </LinearLayout>
